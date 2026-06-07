@@ -181,6 +181,27 @@ main section {
   border-radius: 10px;
 }
 
+#contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.email-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.email-container img {
+  width: 30px;
+  height: 30px;
+}
+
 .footer {
   text-align: center;
   padding: 40px;
@@ -212,22 +233,26 @@ main section {
   opacity: 0.6;
 }
 
-.blob {
-  border-radius: 34% 66% 43% 57% / 20% 35% 65% 80%;
-  background: linear-gradient(
-    135deg,
-    var(--accent-pink),
-    var(--accent-light-pink)
-  );
-  width: 300px;
-  height: 300px;
-  position: absolute;
-  z-index: -1;
-  top: 50%;
-  left: 50%;
-  opacity: 0.3;
-  animation: blobAnimation 20s infinite;
+.github-float {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  background: var(--bg-dark);
+  border: 1px solid var(--accent-pink);
+  padding: 10px;
+  border-radius: 50%;
+  transition: 0.3s;
+  opacity: 0.7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.github-float img {
+  width: 30px;
+  height: 30px;
 }
 
-@keyframes blobAnimation {
+.github-float:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px var(--accent-light-pink);
 }
