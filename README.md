@@ -12,7 +12,6 @@ Je suis une passionnée d'informatique, diplômée en Systèmes Informatiques, e
 ## 🛠 Technologies utilisées
 * **Frontend :** HTML5, CSS3 (avec effets néon/cyber), JavaScript.
 * **Design :** Interface responsive et personnalisée.
-* **Outils :** Git, WordPress, Cisco Packet Tracer.
 
 ## 🚀 Fonctionnalités
 - Design sombre et futuriste ("Cyber/Tech").
