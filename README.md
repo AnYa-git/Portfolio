@@ -1,4 +1,4 @@
-# 🌸 Portfolio d'Anya - Benadda Anya
+# 🌸 Portfolio d'Anya 🌸
 
 Bienvenue sur le code source de mon portfolio personnel ! 🚀
 
@@ -19,7 +19,7 @@ Je suis une passionnée d'informatique, diplômée en Systèmes Informatiques, e
 - Intégration de mon profil GitHub.
 
 ## 🔗 Accès au site
-Tu peux voir le portfolio en ligne ici : [Insère le lien de ton site si tu l'as déployé]
+Tu peux voir le portfolio en ligne ici : [https://anya-git.github.io/Portfolio/]
 
 ---
 *« La curiosité est le moteur de l'ingénieur. »*
